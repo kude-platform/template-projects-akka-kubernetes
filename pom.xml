@@ -10,15 +10,15 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<akka.version>2.9.5</akka.version>
+		<akka.version>2.9.7</akka.version>
 		<scala.version>2.13</scala.version>
-		<logback.version>1.2.13</logback.version>
+		<logback.version>1.5.16</logback.version>
 		<junit.version>4.13.2</junit.version>
 		<chill-akka.version>0.10.0</chill-akka.version>
-		<lombok.version>1.18.30</lombok.version>
+		<lombok.version>1.18.36</lombok.version>
 		<jcommander.version>1.82</jcommander.version>
-		<fastutil.version>8.5.13</fastutil.version>
-		<opencsv.version>5.9</opencsv.version>
+		<fastutil.version>8.5.15</fastutil.version>
+		<opencsv.version>5.10</opencsv.version>
 		<jol.version>0.17</jol.version>
 	</properties>
 
